@@ -43,7 +43,7 @@ Please share the following information about yourself. Each team member should t
 ## Research Question: Innovation for Inclusion or Computation (approx. time: 5-10 mins)
 Write the research question your team selected in the space below. Feel free to revise the original question.
 
-- [Insert research question here]
+- How do functional traits in plants predict invasivness in a changing climate?
 
 
 ## Project Title (approx. time: 5-10 mins)
@@ -87,9 +87,12 @@ Below is a working definition of the word "Resilience" for the Summit. Please ed
 Select one representative from your group to present your proposed project. For the report back, each group will have 30-60 seconds to present their responses to the questions below. Keep it concise and focused. This is just a quick oral presentation - you will not be able to use slides/images.
 
 - **Project Title:**
-  - [Insert your team's project title here]
+  - Plant Functional Traits and Invasiveness under a changing climate
 - **Research Question:**
-  - [Insert your team's refined research question here]
+  -  How do functional traits in plants predict invasivness in a changing climate?
 - **Selected Data Sets:**
-  - [List the data sets your team has chosen to use here]
+  - NEON Terrestrial Data
+  - Global Biodiversity Information Facility
+  - TRY Plant Trait Database
+    
       
