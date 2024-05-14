@@ -17,11 +17,11 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** Although I am external processor, I have the ability to be comfortable with silence if necessary. 
 
   ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** Anping Chen
+  - **Pronouns:** he/him
+  - **Expertise:** plant ecology, climate change impacts
+  - **Environmental Data Science Superpower:** familiar with ecological and climate data
+  - **Reflection on Polarities Exercise:** I'm an internal person, yet comfortable with communicating with people
 
   ---
   - **Name:** [Your Name]
