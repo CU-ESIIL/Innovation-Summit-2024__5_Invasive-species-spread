@@ -11,11 +11,10 @@ Work through the prompts in order. Please use a decision-making method “to dec
 ## Introductions (approx. time: 10 mins total or "1-2 breaths" per prompt)
 Please share the following information about yourself. Each team member should type their response in the space below (create more as needed).
 
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** Weston Gonor
+  - **Pronouns:** he/him
+  - **Expertise:** Molecular biology and genetics in plants
+  - **Reflection on Polarities Exercise:** Although I am external processor, I have the ability to be comfortable with silence if necessary. 
 
   ---
   - **Name:** [Your Name]
