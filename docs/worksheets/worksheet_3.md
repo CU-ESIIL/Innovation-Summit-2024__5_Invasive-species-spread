@@ -27,10 +27,13 @@ Use the gradient of agreement (Kaner 20214) to make decisions as a team.
 Day 2 report-back questions are about the team *process*. We are interested in your team’s unique experience. Below are some prompts you might consider. You don't need to address all of them - choose which ones you want to present. Please limit your reflection to 2-3 mins.  
 
 1. **What worked well for your team?**
+     Diverse array of perspectives within same organism models allowed for easy flow of ideas. 
 3. **What’s one thing you would change?**
-4. **Did your group ever have an “ah-ha” moment?  What led up to that moment?**
-5. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
-     - [insert your group reflection responses here]
+     More time in the group especially on the first day. An hour on day one was not enough time to flush out a question we were all comfortable with. 
+5. **Did your group ever have an “ah-ha” moment?  What led up to that moment?**
+     Not yet! Expecting to get there once we have some data to work with more consistently!
+7. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
+     - We feel that divergence and the groan zone both occured on the first day. We struggled to get off the ground and figure out what we wanted to do. Once we had a night to think about it the ideas were flowing well this morning. We anticipate the groan zone reappearing as we have had some issues accessing data already. 
 
 **************************************************************
 
@@ -38,7 +41,7 @@ Day 2 report-back questions are about the team *process*. We are interested in y
 *These are the prompts for the final Report Back **tomorrow (Day 3)** - start thinking about these questions as you work today. Each group will share their Day 3 GitHub page on the screen and give a 4 minute presentation.*
 
 - **Project Title:**
-- **Research Question:**
+- Do functional traits mitigate invasive species niche expansion in a warming clinmate?
 - **One interesting graphic/finding:**
 - **What are you thinking about doing next with your team? Long-term, short-term?**
 - **What’s missing: what resources, people, data sets, etc. does your team need?**
