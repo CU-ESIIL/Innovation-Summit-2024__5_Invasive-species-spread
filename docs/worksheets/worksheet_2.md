@@ -24,9 +24,9 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** I'm an internal person, yet comfortable with communicating with people
 
   ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
+  - **Name:** Katya Jay
+  - **Pronouns:** she/her
+  - **Expertise:** plant community and ecosystem ecology
   - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
   - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
 
