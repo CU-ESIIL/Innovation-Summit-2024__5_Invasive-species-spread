@@ -47,6 +47,7 @@ Do functional traits mitigate invasive species niche expansion in a warming clim
 - **One interesting graphic/finding:**
 Using niche overlapping to compare niche stability vs niche expansion for current and future climate data, and seeing what functional traits may facilitate niche stability/ expansion in the future. 
 
+<img width="759" alt="workflow" src="https://github.com/CU-ESIIL/Innovation-Summit-2024__5_Invasive-species-spread/assets/168473381/bcc5d669-8355-407a-82f6-79f36ffa736f">
 
 
   
