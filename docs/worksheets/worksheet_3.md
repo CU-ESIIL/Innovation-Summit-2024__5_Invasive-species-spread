@@ -53,7 +53,9 @@ Using niche overlapping to compare niche stability vs niche expansion for curren
   
 - **What are you thinking about doing next with your team? Long-term, short-term?**
   Applying for an ESIIL working group or CO-WY engine funding to continue. We did not have enough time to come up with results but we feel that we have a solid plan that could be continued to be worked on.
-  Once this work is completed there is the option to continue working on this project to look at community weighted trait mean data to see how the current CO-WY communities may be affected by potential invasion under climate change. 
+  We created a slack channel and have decided to meet again in June.
+  Once this work is completed there is the option to continue working on this project to look at community weighted trait mean data to see how the current CO-WY communities may be affected by potential invasion under climate change.
+  
 - **What’s missing: what resources, people, data sets, etc. does your team need?**
   Local expertise in invasive/native species in the region.
   
