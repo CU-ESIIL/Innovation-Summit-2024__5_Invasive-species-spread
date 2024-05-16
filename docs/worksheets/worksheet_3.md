@@ -41,11 +41,21 @@ Day 2 report-back questions are about the team *process*. We are interested in y
 *These are the prompts for the final Report Back **tomorrow (Day 3)** - start thinking about these questions as you work today. Each group will share their Day 3 GitHub page on the screen and give a 4 minute presentation.*
 
 - **Project Title:**
-- Do functional traits mitigate invasive species niche expansion in a warming clinmate?
+The role of plant functional traits in predicting niche expansion vs stability of invasive species under climate change in Colorado and Wyoming
+- **Project Question**
+Do functional traits mitigate invasive species niche expansion in a warming climate?
 - **One interesting graphic/finding:**
+Using niche overlapping to compare niche stability vs niche expansion for current and future climate data, and seeing what functional traits may facilitate niche stability/ expansion in the future. 
+
+
+
+  
 - **What are you thinking about doing next with your team? Long-term, short-term?**
+  Applying for an ESIIL working group or CO-WY engine funding to continue. We did not have enough time to come up with results but we feel that we have a solid plan that could be continued to be worked on.
+  Once this work is completed there is the option to continue working on this project to look at community weighted trait mean data to see how the current CO-WY communities may be affected by potential invasion under climate change. 
 - **What’s missing: what resources, people, data sets, etc. does your team need?**
-      
+  Local expertise in invasive/native species in the region.
+  
 ### Reminder
 There is the opportunity for groups to continue working on their projects as an ESIIL Working Group. If you love your team and want to continue working together, considering submitting a Working Group Application this fall. See the ESIIL website for more information: <https://esiil.org/working-groups>.
      
